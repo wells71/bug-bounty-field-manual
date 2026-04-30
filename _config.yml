@@ -1,7 +1,7 @@
 title: "The Field Manual"
 description: "A Bug Bounty Hunter's Operational Reference"
 
-remote_theme: just-the-docs/just-the-docs
+remote_theme: rundocs/jekyll-rtd-theme
 
 color_scheme: dark
 custom_css: custom
