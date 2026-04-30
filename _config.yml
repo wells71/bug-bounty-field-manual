@@ -4,6 +4,7 @@ description: "A Bug Bounty Hunter's Operational Reference"
 remote_theme: just-the-docs/just-the-docs
 
 color_scheme: dark
+custom_css: custom
 
 # Navigation
 nav_sort: order
