@@ -1,0 +1,24 @@
+title: "The Field Manual"
+description: "A Bug Bounty Hunter's Operational Reference"
+
+remote_theme: just-the-docs/just-the-docs
+
+color_scheme: dark
+
+# Navigation
+nav_sort: order
+
+# Footer
+footer_content: "The Field Manual — Version 1.7 &nbsp;|&nbsp; Parts 1–11 complete &nbsp;|&nbsp; Parts 12–14 pending"
+
+# Code highlighting
+highlighter: rouge
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
